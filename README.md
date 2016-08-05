@@ -1,2 +1,2 @@
-Ubuntu Dockerfile for Chinese User. 
-Docker Hub Image: sylarchen/ubuntu
+Ubuntu Dockerfile for Chinese User.<br/>
+Docker Hub Image: sylarchen/ubuntu.
