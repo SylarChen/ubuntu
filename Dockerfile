@@ -20,7 +20,7 @@ deb-src http://mirrors.sohu.com/ubuntu/ trusty-backports main restricted univers
 # update & upgrade packages
 RUN apt-get update && \
 apt-get upgrade -y && \
-apt-get install -y curl vim && \
+apt-get install -y curl vim wget && \
 rm -rf /var/lib/apt/lists/*
 
 # change localtime
